@@ -2444,26 +2444,4 @@ Any pesticide, chemical or treatment-related recommendation must follow applicab
 
 ---
 
-## 📌 Documentation Maintenance
 
-This README should be updated whenever a major component is implemented.
-
-Add the following as the project becomes complete:
-
-* Actual GitHub repository URL
-* Live demo URL
-* Screenshots
-* Demo video
-* API documentation
-* Actual model names and versions
-* Dataset versions
-* Measured evaluation metrics
-* Confusion matrix
-* Model performance
-* Deployment architecture
-* Field-validation results
-* Team member information
-* Installation requirements
-* Production configuration
-
-**Do not claim a feature is implemented until it has actually been developed and tested.**
